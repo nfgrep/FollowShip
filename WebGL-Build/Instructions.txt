@@ -1,0 +1,12 @@
+	
+	You musn't run away.
+
+	Survive for as long as the alien hordes will let you.
+
+Controls:
+
+	Mouse Movement: Player Movement.
+	
+	Left Click: Shoot.
+
+	Right Click: Hold Steady.
